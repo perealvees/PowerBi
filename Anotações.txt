@@ -1,3 +1,20 @@
+carregar (deixa do jeito que ta) / transformar dados (editar)
+
+deletar linha vazias: ir em pagina inicial, reduzir linhas, remover linhas.
+
+desfazer uma ação: etapa aplicadas e excluir no x
+
+substituir valore: transformar, 1/2, substituir valores
+
+A melhor apresentação para uma informação só, é a opção "cartão"
+
+Roda na nuvem da microsoft
+
+sistemas relacionais, sistemas operacionais que outras areas usam para garantir a integridade dos dados
+para isso isso é criado chaves: chave primaria e chave estrangeira
+
+Paineis = resumo em grafico / relatório = dealhamento
+
 Fórmulas: 
 
 Para adicionar uma fórmua na tabela, usar a opção "NOVA MEDIDA".
