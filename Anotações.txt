@@ -1,9 +1,17 @@
-Fórmulas >
+Fórmulas: 
 
+Para adicionar uma fórmua na tabela, usar a opção "NOVA MEDIDA".
+CALCULATE: somar de acordo com um criterio (o cont.se do excel)
+DIVIDE: dividir um número e no final, ter a opção de retorno caso de erro. (seerro do excel)
+Também tem como criar uma nova medida no campo dos relatórios, clicando com o botão direito no canto direito da página
+
+
+
+Modelagem de dados >
 
 
 Principais gráficos >
-
+Cartão, pizza ou rosca, barras e colunas
 
 
 
