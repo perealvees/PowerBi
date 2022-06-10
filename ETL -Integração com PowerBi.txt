@@ -1,0 +1,71 @@
+ETL - Extract, transform e load
+
+Fases do ETL:
+1ª - extração de dados
+2ª - limpeza, ajustes e consolidação (transformação)
+3ª - entrega ou carga de dos no Warehouse
+4ª - gerenciamento do data warehouse
+
+
+Requesitos:
+- conhecimento do negócio
+- viabidade de dados
+- latencia de dados (delay de processaento ou consulta com DW/BD)
+- Politicas de complience e segurança
+
+
+Etapas do Bi
+
+1ª COLETA DE DADOS
+- Quais são os dados principais a ser analisados? (nome, data, empresa, idade, sexo, etc)
+- O que queremos responder com esse relatório?
+- Qual objetivo do relatório?
+- Quais as tabelas e colunas?
+- Como os dados das tabelas se relacionam? 
+
+2ª ORGANIZAÇÃO
+- métricas
+- indices de chaves (KPI)
+- relacionamento das tabelas
+
+3ª ANALISE
+- processo de ETL
+- modelagem de dados
+- criação visual
+
+4ª COMPARTILHAMENTO
+- publicação
+- compartilhamento
+- apresentação
+
+5ª MONITORAMENTO
+- analisar o consumo do relatório
+- quanto menos informação irrelevante menor
+- as informações devem ser efetivas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
