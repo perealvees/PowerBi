@@ -1,0 +1,1 @@
+https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='CAD',dataInicialCotacao='01-16-21',dataFinalCotacao='01-16-21')?$select=cotacaoCompra
