@@ -30,6 +30,11 @@ Modelagem de dados >
 Principais gráficos >
 Cartão, pizza ou rosca, barras e colunas
 
+- - - - 
 
+ToolTip - criar uma aba, ativar as opções de tooltip
 
-Integração Python >
+Drill Down - possibilita avançar em diferentes níveis de uma hierarquia e detalhar a análise dentro do mesmo nível,mesma dimensão. 
+
+Drill Through - É o processo de obter detalhes de informação que são filtrados pelo contexto.
+Seleciona a informação que temos (ano, entidade, empresa, utilizador ou outra qualquer coluna do modelo) nos apresenta detalhes adicionais.
